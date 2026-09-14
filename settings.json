@@ -32,14 +32,14 @@
       "repeat-delay": 60,
       "messages": [
         "Hy guyss its me SubhanBot",
-        "Subscribe to @SbhanPlayz285!",
-        "Wanna keyall? nah just a joke"
+        "Subscribe to @SubhanPlayz285!",
+        "Wanna keyall? nah just a joke there is not crates so how?LOL"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 10000000
   },
   "movement": {
     "enabled": true,
